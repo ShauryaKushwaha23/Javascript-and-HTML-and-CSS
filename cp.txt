@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+    <label id="countLabel">0</label><br>
+    <div id="btContainer">
+    <button id="incrementButton" class="buttons">Increment</button>
+    <button id="resetButton" class="buttons">Reset</button>
+    <button id="decrementButton" class="buttons">Decrement</button>
+    </div><br>
+    
+
+    <script src="CounterProgram.js"></script>    
+</body>
+</html>
